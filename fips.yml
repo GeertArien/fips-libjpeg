@@ -6,5 +6,5 @@
 exports:
   header-dirs : [ '.', 'libjpeg'  ]
   modules:
-    libtiff          : libjpeg
+    libjpeg          : libjpeg
 
