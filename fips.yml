@@ -1,0 +1,10 @@
+#
+# fips-libjpeg
+#
+---
+
+exports:
+  header-dirs : [ '.', 'libjpeg'  ]
+  modules:
+    libtiff          : libjpeg
+
